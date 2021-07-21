@@ -2,8 +2,8 @@ import React from 'react';
 
 const User = () => {
     return(
-        <div></div>
+        <h1>User</h1>
     )
 }
 
-export default User
+export default User;
