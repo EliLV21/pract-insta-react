@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/pract-insta-react/static/css/main.4f9ddbf8.chunk.css",
-    "main.js": "/pract-insta-react/static/js/main.63d556eb.chunk.js",
-    "main.js.map": "/pract-insta-react/static/js/main.63d556eb.chunk.js.map",
-    "runtime-main.js": "/pract-insta-react/static/js/runtime-main.3db1be53.js",
-    "runtime-main.js.map": "/pract-insta-react/static/js/runtime-main.3db1be53.js.map",
-    "static/js/2.70c67c6f.chunk.js": "/pract-insta-react/static/js/2.70c67c6f.chunk.js",
-    "static/js/2.70c67c6f.chunk.js.map": "/pract-insta-react/static/js/2.70c67c6f.chunk.js.map",
-    "static/js/3.1d5f3a64.chunk.js": "/pract-insta-react/static/js/3.1d5f3a64.chunk.js",
-    "static/js/3.1d5f3a64.chunk.js.map": "/pract-insta-react/static/js/3.1d5f3a64.chunk.js.map",
+    "main.js": "/pract-insta-react/static/js/main.17667fae.chunk.js",
+    "main.js.map": "/pract-insta-react/static/js/main.17667fae.chunk.js.map",
+    "runtime-main.js": "/pract-insta-react/static/js/runtime-main.954fda30.js",
+    "runtime-main.js.map": "/pract-insta-react/static/js/runtime-main.954fda30.js.map",
+    "static/js/2.ab367dc1.chunk.js": "/pract-insta-react/static/js/2.ab367dc1.chunk.js",
+    "static/js/2.ab367dc1.chunk.js.map": "/pract-insta-react/static/js/2.ab367dc1.chunk.js.map",
+    "static/js/3.24c32af8.chunk.js": "/pract-insta-react/static/js/3.24c32af8.chunk.js",
+    "static/js/3.24c32af8.chunk.js.map": "/pract-insta-react/static/js/3.24c32af8.chunk.js.map",
     "index.html": "/pract-insta-react/index.html",
     "static/css/main.4f9ddbf8.chunk.css.map": "/pract-insta-react/static/css/main.4f9ddbf8.chunk.css.map",
-    "static/js/2.70c67c6f.chunk.js.LICENSE.txt": "/pract-insta-react/static/js/2.70c67c6f.chunk.js.LICENSE.txt",
+    "static/js/2.ab367dc1.chunk.js.LICENSE.txt": "/pract-insta-react/static/js/2.ab367dc1.chunk.js.LICENSE.txt",
     "static/media/explore.2874ef41.svg": "/pract-insta-react/static/media/explore.2874ef41.svg",
     "static/media/home.b0189fdb.svg": "/pract-insta-react/static/media/home.b0189fdb.svg",
     "static/media/instagram.b4b4a5d2.svg": "/pract-insta-react/static/media/instagram.b4b4a5d2.svg",
-    "static/media/user.4ae91581.svg": "/pract-insta-react/static/media/user.4ae91581.svg"
+    "static/media/user.9ee22a29.svg": "/pract-insta-react/static/media/user.9ee22a29.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3db1be53.js",
-    "static/js/2.70c67c6f.chunk.js",
+    "static/js/runtime-main.954fda30.js",
+    "static/js/2.ab367dc1.chunk.js",
     "static/css/main.4f9ddbf8.chunk.css",
-    "static/js/main.63d556eb.chunk.js"
+    "static/js/main.17667fae.chunk.js"
   ]
 }
