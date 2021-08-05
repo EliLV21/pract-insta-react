@@ -3,14 +3,16 @@ import {Switch, Route} from 'react-router-dom';
 import Header from '../../Components/Header/Header'
 import Explore from '../Explore/Explore';
 import NewHome from '../NewHome/NewHome';
+import Profile from '../Profile/Profile';
 
-const Home = () => {
+const Home = ({handleLogged}) => {
     return (
         <div>
-            <Header />
+            <Header isLogged={handleLogged}/>
             <Switch>
                 <Route exact path='/' component={NewHome}/>
                 <Route exact path='/explore' component={Explore}/>
+                <Route path='/:username' component={Profile}/>
             </Switch>
         </div>
     )
